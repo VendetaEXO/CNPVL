@@ -596,7 +596,7 @@ body {
             <h1>Colegiul Național Pedagogic „Vasile Lupu” Iași</h1>
             <h2>O scoala de proveste</h2>
             <img 
-                src="Colegiul-pedagogic-iasi-foto-primaria-iasi.jpg" 
+                src="https://i.imgur.com/8rbuXlI.jpeg" 
                 alt="Colegiul Național Pedagogic Vasile Lupu Iași" 
                 class="morph-img hoverzoom"
                 style="margin: 0 auto;"
@@ -739,19 +739,19 @@ body {
     <div class="memories-title">Amintiri de neuitat</div>
     <div class="memories-carousel" id="memoriesCarousel" style="background:#111; border-radius:12px; padding:1em 0;">
         <div class="memory-card">
-            <img src="Poza-Bibleoteca.jpg" class="memory-img" alt="Excursie la munte">
+            <img src="https://i.imgur.com/VhhDV6L.jpeg" class="memory-img" alt="">
             <div class="memory-text">Vizita Bibliotecii "Mihai Eminescu"</div>
         </div>
         <div class="memory-card">
-            <img src="Poza-Gradina.jpg" class="memory-img" alt="Balul bobocilor">
+            <img src="https://i.imgur.com/3dKAYPi.jpeg" class="memory-img" alt="">
             <div class="memory-text">Gradina botanica</div>
         </div>
         <div class="memory-card">
-            <img src="Poza-Pogor.jpg" class="memory-img" alt="Ultimul clopoțel">
+            <img src="https://i.imgur.com/4yj4mFL.jpeg" class="memory-img" alt="">
             <div class="memory-text">Casa Pogor</div>
         </div>
         <div class="memory-card">
-            <img src="Poza-Intalnire.jpg" class="memory-img" alt="">
+            <img src="https://i.imgur.com/aaQkuqF.jpeg" class="memory-img" alt="">
             <div class="memory-text">Iesirea pentru a o vizita pe stranepoata lui Ion Creanga</div>
         </div>
     </div>
