@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="ro">
 
 <head>
@@ -2162,7 +2162,3 @@ function applyTheme(idx) {
 }
 
 </script>
-
-</body>
-
-</html>
