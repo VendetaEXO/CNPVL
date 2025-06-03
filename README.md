@@ -2161,4 +2161,8 @@ function applyTheme(idx) {
     }, 200);
 }
 
+
+    a[href*="CNPVL.github.io"], a[href*="github.com"] {
+    display: none !important;
+}
 </script>
